@@ -1,1 +1,1 @@
-This is a game. Ahihi
+This is a game like a sodoku game.
