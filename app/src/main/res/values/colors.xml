@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474f</color>
+    <color name="colorPrimaryDark">#1c313a</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#efebe9</color>
+    <color name="square_light">#64c6d4ef</color>
+    <color name="square_dark">#6456648f</color>
+    <color name="square_foreground">#616161</color>
+    <color name="square_selected">#64ff8000</color>
+    <color name="button_background">#607d8b</color>
+    <color name="white_font">#263238</color>
+    <color name="delete_button_background">#64dd17</color>
+    <color name="button_font_color">#eeeeee</color>
+    <color name="button_change_color">#e1f5fe</color>
+
+</resources>

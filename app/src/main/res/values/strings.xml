@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Magic Square</string>
+
+    <string name="rule">A magic square is a square array of numbers consisting of the distinct positive integers 1, 2, ..., n*n arranged such that the sum of the  n numbers in any horizontal, vertical, or main diagonal line is always the same number.</string>
+
+</resources>
